@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulkadirkoyuncu&color=green&base=234"/> 
+  <img src="https://komarev.com/ghpvc/?username=abdulkadirkoyuncu&color=green&base=1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/> 
 </p>
 
