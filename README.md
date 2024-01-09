@@ -8,5 +8,7 @@ AbdulkadirKoyuncu/AbdulkadirKoyuncu is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=abdulkadirkoyuncu&color=green)
+</p>
 
-![](https://komarev.com/ghpvc/?username=abdulkadirkoyuncu&color=green)
