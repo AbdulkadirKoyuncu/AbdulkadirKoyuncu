@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulkadirkoyuncu&color=blue"/> 
+  <img src="https://komarev.com/ghpvc/?username=abdulkadirkoyuncu&abbreviated=true&label=Abdulkadir+Koyuncu's+Profile+Views&color=blue&style=plastic"/> 
 </p>
 
