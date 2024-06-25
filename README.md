@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdulkadirkoyuncu&abbreviated=true&label=Abdulkadir+Koyuncu's+Profile+Views&color=blue&style=plastic"/> 
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkadirKoyuncu&layout=compact">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkadirKoyuncu&layout=compact&theme=dark">  
 </p>
