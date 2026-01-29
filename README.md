@@ -1,7 +1,5 @@
-- 👋 Hi, I’m **@AbdulkadirKoyuncu**
-- 👀 I’m interested in **Cyber Security**
-- 🌱 I’m currently learning **Python and Java**
-- 📫 You can reach me at **abdulkadirkync0@gmail.com**
+<h1 align="center">Hi 👋, I'm Abdulkadir</h1>
+
 
 <p align="center">
   <br>
@@ -15,19 +13,9 @@
   <br><br>
 </p>
 
-## 🚀 Most Used Languages
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulkadirKoyuncu)](https://github.com/AbdulkadirKoyuncu/github-readme-stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkadirKoyuncu&layout=compact&theme=vision-friendly-dark&bg_color=00000000" alt="Abdulkadir Koyuncu's Most Used Languages" />
-</p>
-
-
 ----
 
-<h1 align="center">Hi 👋, I'm Abdulkadir</h1>
-<h3 align="center">A passionate CyberSecurity from Turkiye</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadirkoyuncu&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadirkoyuncu" /> </p>
 
