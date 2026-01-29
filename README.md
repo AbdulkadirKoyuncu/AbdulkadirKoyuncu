@@ -17,6 +17,8 @@
 
 ## 🚀 Most Used Languages
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulkadirKoyuncu)](https://github.com/AbdulkadirKoyuncu/github-readme-stats)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkadirKoyuncu&layout=compact&theme=vision-friendly-dark&bg_color=00000000" alt="Abdulkadir Koyuncu's Most Used Languages" />
 </p>
