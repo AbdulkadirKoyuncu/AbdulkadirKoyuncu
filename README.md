@@ -12,20 +12,3 @@
   <img src="https://komarev.com/ghpvc/?username=AbdulkadirKoyuncu&abbreviated=true&label=Abdulkadir+Koyuncu's+Profile+Views&color=blue&style=plastic"/> 
   <br><br>
 </p>
-
-----
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadirkoyuncu&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadirkoyuncu" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdulkadirkoyuncu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulkadirkoyuncu" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkadirkoyuncu&show_icons=true&locale=en&layout=compact" alt="abdulkadirkoyuncu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulkadirkoyuncu&show_icons=true&locale=en" alt="abdulkadirkoyuncu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadirkoyuncu&" alt="abdulkadirkoyuncu" /></p>
