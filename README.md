@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋<br>I'm Abdulkadir</h1>
+<h1 align="center">Hello There👋<br>I'm Abdulkadir</h1>
 
 <img align="left" height="150" src="https://media1.tenor.com/m/F7Cd9OI_XRQAAAAC/kid-meme.gif"  />
 <img align="right" height="150" src="https://media1.tenor.com/m/F7Cd9OI_XRQAAAAC/kid-meme.gif"  />
